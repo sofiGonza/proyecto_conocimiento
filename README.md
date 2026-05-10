@@ -1,5 +1,5 @@
 # Proyecto de Conocimiento — Inventario Machine Shop
-## Anduril Industries · SENA Formación 3406211
+## Anduril Industries · SENA Formación 3406204
 
 ---
 ## Video sobre el codigo realizado por la aprendiz Sofia Gonzalez
